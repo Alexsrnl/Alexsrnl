@@ -3,7 +3,7 @@
 
 <p> Outside of work, I’m currently building projects with SQL, Power BI, and Python, while also diving into online case study analyses to sharpen my problem-solving skills. Beyond tech, I stay active through :mount_fuji: hiking and :runner: jogging, and I unwind with a bit of :video_game: gaming when I want to relax.</p>
 
-I also love working with different technologies & platforms and my current favorite ones are
+Currently building proficiency to:
 - :computer: SQL / MySQL
 - :computer: Python
 - :computer: Power BI
